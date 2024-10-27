@@ -1,0 +1,36 @@
+#intro-container {
+    background-image: url("src/assets/bnbImage2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#intro-container button{
+    padding: 10px 2rem;
+    font-size: 16px;
+    border-radius: 8px;
+    color: gray;
+    background-color: white;
+}
+
+#rating-box{
+    padding: 2rem;
+    border: none;
+    background-color: black;
+    opacity: 0.5;
+}
+
+#meet-our-doctors{
+min-height: 400px;
+}
+
+h1{
+    color: rgb(251,165,14);
+}
+
+iframe{
+    padding: 3rem;
+} 

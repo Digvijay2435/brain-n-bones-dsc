@@ -1,0 +1,16 @@
+#contact-details-container {
+display: inline;
+position: fixed;
+right: 0;
+bottom: 0;
+margin: 3rem;
+cursor: pointer;
+}
+
+.contact-us-icon{
+    text-align: center;
+    font-size: 28px;
+    background-color:rgb(219,242,250);
+    padding: 14px;
+    border-radius: 50%;
+}
